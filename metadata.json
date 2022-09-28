@@ -1,0 +1,36 @@
+{
+  "name": "Sachi #718",
+  "symbol": "SACHI",
+  "description": "Evolve, Plug in, Switch on, Join the Hunt & Stake your Claim on the Future - Now. Bounty Hunters are a collection of 8000 unique NFT's on the solana blockchain",
+  "seller_fee_basis_points": 200,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https%3A%2F%2Fbafybeicvrzojsnqtgng7dbwx6iklgvyokqgedvw7uraluwalt7s5wwmfji.ipfs.nftstorage.link%2F0.gif%3Fext%3Dgif@png",
+  "attributes": [
+   {
+      "trait_type": "Attributes",
+      "value": "Hidden"
+    }
+  ],
+  "collection": {
+    "name": "Sachi",
+    "family": "Cyborg"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "RRUMF9KYPcvNSmnicNMAFKx5wDYix3wjNa6bA7R6xqA",
+        "share": 92
+      },
+      {
+        "address": "RRUMF9KYPcvNSmnicNMAFKx5wDYix3wjNa6bA7R6xqA",
+        "share": 8
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+
